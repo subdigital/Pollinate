@@ -1,1 +1,7 @@
-# Pollinate - Created with Ti, the rapid development framework.
+# Pollinate 
+
+This project is mostly a learning ground for me to understand Titanium.
+Since I'd rather poke my eyeballs with hot pokers than live in Eclipse,
+I've chosen to use Vim and work with Titanium from the command line.
+
+Pollinate is built with CoffeeScript, Sass, and Titanium, courtesy of [Ti](https://github.com/revans/Ti), the rapid development framework.
